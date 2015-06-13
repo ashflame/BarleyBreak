@@ -1,0 +1,38 @@
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.exe.config
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.Form1.resources
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\курсовая никита\пятнашки\плавное перемешение кнопки\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.exe.config
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.Form1.resources
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\bin\Debug\BarleyBreak.exe.config
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\bin\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\bin\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.Form1.resources
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\bin\Debug\BarleyBreak.exe.config
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\bin\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\bin\Debug\BarleyBreak.pdb
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.Form1.resources
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\git\BarleyBreak — копия\BarleyBreak\obj\Debug\BarleyBreak.csproj.GenerateResource.Cache
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\bin\Debug\BarleyBreak.exe.config
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.exe
+C:\Users\Anastasia\Desktop\git\BarleyBreak\BarleyBreak\obj\Debug\BarleyBreak.pdb
